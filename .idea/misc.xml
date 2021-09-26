@@ -5,7 +5,11 @@
       <map>
         <entry key="..\:/Users/gians/Documents/Project/giansar/android/demo-android-bottom-navigation/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.20052083333333334" />
         <entry key="..\:/Users/gians/Documents/Project/giansar/android/demo-android-bottom-navigation/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.20052083333333334" />
-        <entry key="..\:/Users/gians/Documents/Project/giansar/android/demo-android-bottom-navigation/app/src/main/res/layout/activity_main.xml" value="0.20304568527918782" />
+        <entry key="..\:/Users/gians/Documents/Project/giansar/android/demo-android-bottom-navigation/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/gians/Documents/Project/giansar/android/demo-android-bottom-navigation/app/src/main/res/layout/fragment_account.xml" value="0.1" />
+        <entry key="..\:/Users/gians/Documents/Project/giansar/android/demo-android-bottom-navigation/app/src/main/res/layout/fragment_form.xml" value="0.1" />
+        <entry key="..\:/Users/gians/Documents/Project/giansar/android/demo-android-bottom-navigation/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/gians/Documents/Project/giansar/android/demo-android-bottom-navigation/app/src/main/res/layout/fragment_quota.xml" value="0.1" />
         <entry key="..\:/Users/gians/Documents/Project/giansar/android/demo-android-bottom-navigation/app/src/main/res/menu/bottom_menu.xml" value="0.184375" />
       </map>
     </option>
